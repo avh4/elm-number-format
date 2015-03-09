@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Number formatting",
+    "repository": "https://github.com/circuithub/elm-number-format.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Number.Format"
+    ],
+    "dependencies": {
+        "elm-lang/core": "1.1.0 <= v < 2.0.0",
+        "circuithub/elm-string-split": "1.0.0 <= v < 2.0.0"
+    }
+}
